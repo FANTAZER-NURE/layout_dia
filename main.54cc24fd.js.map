@@ -1,0 +1,1 @@
+{"version":3,"sources":["scripts/main.js"],"names":[],"mappings":";AAAA","file":"main.54cc24fd.js","sourceRoot":"..\\src","sourcesContent":["'use strict';\n\n// function plusSlides() {\n//   const slider = document.querySelector('slider');\n//   let i = 1;\n\n//   slider.style = `background-image: url(../images/slider${i}.jpg)`;\n\n//   i++;\n// }\n"]}
